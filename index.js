@@ -1,8 +1,3 @@
-
-
-
-
-
 const express = require('express')
 var nodemailer = require('nodemailer');
 var cors = require('cors');
